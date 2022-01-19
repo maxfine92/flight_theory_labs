@@ -74,21 +74,26 @@ Here you will compare the efficiency of Hohmann and bielliptic transfers. below 
 4. Orbit rotation.
 Though the lab is very easy, we will learn how to create animated motion.
 Motion in one plane:
+
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/67582707/150088112-b9347213-4604-4722-b14c-543aa9d23be2.gif)
 
 Orbit rotation transfer:
+
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/67582707/150088467-583e64df-c263-4d2a-bdec-bce0422a5320.gif)
 
 
 5. Lambert transfer.
 Now we will learn more complex approach to ballistic design.
+
 ![image](https://user-images.githubusercontent.com/67582707/150088881-b4f49746-6a56-4272-9723-a0af3cf55209.png)
 
 6. Gravity assist maneuver.
 The purpose of the work: to study the physical foundations of gravity maneuvers, learn how to calculate the parameters of such maneuvers.
 
 Manifold of maneuvers around the Earth:
+
 ![image](https://user-images.githubusercontent.com/67582707/150089104-9f23a487-b848-4e52-83ea-af38b44b68ff.png)
 
 One single maneuver:
+
 ![image](https://user-images.githubusercontent.com/67582707/150089208-f1ae07ce-5cd8-4765-8c06-26b58fc9cb02.png)
